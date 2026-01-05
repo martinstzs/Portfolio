@@ -1,21 +1,50 @@
-# Portfólio – Aline Martins
+PORTFÓLIO PESSOAL – Aline Martins
+👩‍💻 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com interesse em estágio ou posição Júnior / N1 na área de desenvolvimento web.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com interesse em estágio ou posição Júnior / N1 na área de desenvolvimento web. Tenho experiência em projetos acadêmicos, tanto individuais quanto em grupo, utilizando boas práticas de desenvolvimento, organização de código e versionamento.
 
-## 🚀 Projetos
+🚀 Projetos
+🔹 Site Institucional – CICALT (Projeto em Grupo)
 
-### Projeto em Grupo
-*Site Institucional do CICALT*
+Projeto desenvolvido em grupo para a criação de um site institucional escolar.
 
-Projeto de desenvolvimento de um site institucional, com foco em organização de código, boas práticas de desenvolvimento web e experiência do usuário.
-
-🌐 *Site:*  
+🌐 Site:
 https://terceirodev.github.io/mudan-a-site/index.html
 
-🔗 *Repositório:*  
+🔗 Repositório:
 https://github.com/terceirodev/mudan-a-site
 
-*Tecnologias:* HTML5, CSS3, JavaScript, Git e GitHub.
+Tecnologias:
+HTML5 • CSS3 • JavaScript • Git • GitHub
 
-*Minha contribuição:*  
-Desenvolvimento e manutenção do código, estruturação semântica em HTML, estilização com CSS, ajustes de responsividade, correções e versionamento com Git.
+Minha contribuição:
+
+Desenvolvimento e manutenção do código
+
+Estruturação semântica em HTML
+
+Estilização com CSS
+
+Ajustes de responsividade
+
+Correções e versionamento com Git
+
+🛠️ Tecnologias
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Git e GitHub
+
+Visual Studio Code
+
+📫 Contato
+
+GitHub: (https://github.com/martistzs)
+
+LinkedIn: 
+
+E-mail: (aline.msantosc@gmail.com)
