@@ -45,6 +45,6 @@ Visual Studio Code
 
 GitHub: (https://github.com/martistzs)
 
-LinkedIn: 
+LinkedIn: (www.linkedin.com/in/martinsaline)
 
 E-mail: (aline.msantosc@gmail.com)
